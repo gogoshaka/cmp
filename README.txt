@@ -1,4 +1,3 @@
-# cmp
 
            FISHKISSFISHKIS               
        SFISHKISSFISHKISSFISH            F
